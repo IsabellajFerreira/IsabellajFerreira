@@ -11,7 +11,7 @@
     <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="40" width="50" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    </div>
    <h1 align="center">Minhas Redes Sociais 💻</h1>
     <a href = "mailto: isabellajferreira@gmail.com">
